@@ -1,0 +1,13 @@
+Source: demo
+Section: utils
+Priority: optional
+Maintainer: Philip Freeman <phil@marble.io>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/phil-marble/demo
+
+Package: demo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: demo application for packaging example
+ This is just a demo application to show off debian packaging stuff
