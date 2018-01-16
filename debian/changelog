@@ -1,3 +1,9 @@
+demo (0.0.3-1) xenial; urgency=medium
+
+  * Upstream update
+
+ -- Philip Freeman <phil@marble.io>  Tue, 16 Jan 2018 11:43:38 -0800
+
 demo (0.0.2-1) unstable; urgency=medium
 
   * Initial release
